@@ -1,6 +1,6 @@
 ### Hi there 👋
-Currently working for GuildCraft Development Team
-Always learning :)
+### Currently working for GuildCraft Development Team
+### Always learning :)
 
 <!--
 **Frxq15/Frxq15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
