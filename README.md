@@ -1,4 +1,4 @@
-### Currently working for GuildCraft Development Team
+### Developer for GuildCraft Development Team
 
 ### Statistics
 
