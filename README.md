@@ -1,4 +1,4 @@
-### Developer for GuildCraft Development Team
+### Freelance Developer
 
 ![Frxq15 github stats](https://github-readme-stats.vercel.app/api?username=Frxq15&show_icons=true&theme=onedark&count_private=true)
 
