@@ -8,7 +8,7 @@ Feel free to reach out to me if you have any questions through the following:
 * Discord: frxq15
 * Email: cxrtwrightdan15@gmail.com
 
-[![Frxq15's GitHub stats](https://github-readme-stats.vercel.app/api?username=frxq15&theme=dracula)](https://github.com/frxq15)
+[![Frxq15's GitHub stats](https://github-readme-stats.vercel.app/api?username=frxq15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/frxq15)
 
 [![Frxq15's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=frxq15&theme=dracula&layout=compact)](https://github.com/frxq15)
 
