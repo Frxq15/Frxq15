@@ -1,5 +1,4 @@
 ### Hi there, 👋  I'm Dan
-I'm a Java Developer.
 I'm constantly looking to learn new things and experience new languages, If you ever want a free small java plugin, just contact me :)
 
 * 📫 How to reach me?
